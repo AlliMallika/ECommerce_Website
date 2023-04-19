@@ -1,0 +1,90 @@
+{
+  "seller": [
+    {
+      "name": "sandhya",
+      "email": "sandhya1@gmail.com",
+      "password": "sandhya@1",
+      "id": 1
+    },
+    {
+      "name": "surya",
+      "email": "surya2@gmail.com",
+      "password": "surya@2",
+      "id": 2
+    },
+    {
+      "name": "Mallika",
+      "password": "Mallika@19",
+      "email": "allimallika192@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sravan",
+      "password": "Sravan@10",
+      "email": "sravanalli@test.com",
+      "id": 4
+    },
+    {
+      "name": "sooraj",
+      "password": "Sooraj12",
+      "email": "sooraj@demo.com",
+      "id": 5
+    },
+    {
+      "name": "Zakir",
+      "password": "Zakir@2",
+      "email": "zakir@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "sravan",
+      "password": "Sravan@10",
+      "email": "sravanalli@test.com",
+      "id": 7
+    },
+    {
+      "name": "sravan",
+      "password": "Sravan@10",
+      "email": "sravanalli@test.com",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung m 40",
+      "price": "15000",
+      "category": "mobile",
+      "color": "white",
+      "description": "This is a samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "I Phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "Dell Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "white",
+      "description": "A Dell Laptop",
+      "image": "http://5.imimg.com/data5/AI/GS/BQ/SELLER-61939349/hp-laptop-500x500.jpg",
+      "id": 3
+    },
+    {
+      "name": "HP Laptop",
+      "price": "60000",
+      "category": "Laptop",
+      "color": "white",
+      "description": "An HP Laptop",
+      "image": "http://5.imimg.com/data5/AI/GS/BQ/SELLER-61939349/hp-laptop-500x500.jpg",
+      "id": 4
+    }
+  ]
+}
